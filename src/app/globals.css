@@ -1,0 +1,31 @@
+@import url("https://api.fontshare.com/v2/css?f[]=satoshi@1,900,700,500,300,400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+body,
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply bg-gradient-to-br from-neutral-950 via-teal-950 to-emerald-950 scroll-smooth;
+}
+
+h1 {
+  @apply font-black text-[2.5rem] md:text-[4rem] leading-none;
+}
+
+h2 {
+  @apply font-black text-[2rem] md:text-[3rem] leading-tight;
+}
+
+p {
+  @apply text-base leading-relaxed;
+}
+
+a {
+  @apply cursor-pointer;
+}

@@ -26,16 +26,7 @@ export default function Footer() {
           <h3 className="text-neutral-50 font-normal">App</h3>
           <ul className="list-none text-neutral-300/80 space-y-2">
             <li>
-              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Lorem</a>
-            </li>
-            <li>
-              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Ipsum</a>
-            </li>
-            <li>
-              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Dolor</a>
-            </li>
-            <li>
-              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Sit</a>
+              <a href="https://generate.araxyso.xyz" className="hover:text-neutral-100 duration-200 ease-in-out">JWT Generation</a>
             </li>
           </ul>
         </div>

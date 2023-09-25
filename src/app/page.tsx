@@ -101,7 +101,7 @@ export default function Home() {
             <div className="h-full flex flex-col w-full lg:w-[60%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  User Authentication and Security
+                  User Authentication and Security.
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
                 ShopExpress provides robust user authentication features, allowing users to register, log in, and log out securely.
@@ -113,7 +113,7 @@ export default function Home() {
             <div className="h-full flex flex-col w-full lg:w-[40%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Product Management
+                  Product Management.
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
                 ShopExpress simplifies product management with CRUD operations for effortless product creation, updates, and retrieval by ID or list.
@@ -125,7 +125,7 @@ export default function Home() {
           <div className="h-full flex flex-col w-full lg:w-[40%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Shopping Cart and Checkout
+                  Shopping Cart and Checkout.
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
                 ShopExpress streamlines shopping with cart management, simplifying checkout, and enabling seamless payments via Stripe.
@@ -135,7 +135,7 @@ export default function Home() {
             <div className="h-full flex flex-col w-full lg:w-[60%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Extensive Documentation
+                  Extensive Documentation.
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
                 ShopExpress prioritizes developer-friendliness by offering detailed documentation for each API endpoint.

@@ -50,9 +50,7 @@ export default function WaitlistPage() {
             className="text-neutral-200 font-[450] text-xl w-full lg:w-2/3 text-center"
             variants={FADE_DOWN_ANIMATION_VARIANTS}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            itaque adipisci, sequi cum quasi assumenda doloremque tempora quod
-            quidem dolor.
+            Join our waitlist to stay updated on the latest ShopExpress features and updates. Be the first to know when new functionalities are rolled out, ensuring you can leverage the latest e-commerce capabilities for your business.
           </motion.p>
         </motion.div>
         <WaitlistForm />

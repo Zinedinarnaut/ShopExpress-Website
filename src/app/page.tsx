@@ -106,9 +106,9 @@ export default function Home() {
                   User Authentication and Security
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  	•	ShopExpress provides robust user authentication features, allowing users to register, log in, and log out securely.
-	•	Routes are protected with JWT token authentication, ensuring that only authenticated users can access specific functionalities.
-	•	Passwords are hashed for enhanced security, protecting user credentials from unauthorized access.
+                ShopExpress provides robust user authentication features, allowing users to register, log in, and log out securely.
+	        Routes are protected with JWT token authentication, ensuring that only authenticated users can access specific functionalities.
+	        Passwords are hashed for enhanced security, protecting user credentials from unauthorized access.
                 </p>
               </div>
             </div>
@@ -118,9 +118,9 @@ export default function Home() {
                   Product Management
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  •	ShopExpress offers comprehensive product management capabilities, including Create, Read, Update, and Delete (CRUD) operations.
-	•	Users can create and update product details, making it easy to maintain an up-to-date catalog of available products.
-	•	The API allows for the retrieval of a list of all available products or specific products by their unique IDs.
+                ShopExpress offers comprehensive product management capabilities, including Create, Read, Update, and Delete (CRUD) operations.
+	        Users can create and update product details, making it easy to maintain an up-to-date catalog of available products.
+	        The API allows for the retrieval of a list of all available products or specific products by their unique IDs.
                 </p>
               </div>
             </div>
@@ -132,9 +132,9 @@ export default function Home() {
                   Shopping Cart and Checkout
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  	•	ShopExpress simplifies the shopping experience by providing endpoints to add, update, and remove products from a user’s shopping cart.
-	•	Cart calculations ensure accurate subtotals and totals, making it straightforward to handle checkout processes.
-	•	Users can seamlessly complete purchases through payment integration, with support for popular payment methods like Stripe.
+                ShopExpress simplifies the shopping experience by providing endpoints to add, update, and remove products from a user’s shopping cart.
+	        Cart calculations ensure accurate subtotals and totals, making it straightforward to handle checkout processes.
+	        Users can seamlessly complete purchases through payment integration, with support for popular payment methods like Stripe.
                 </p>
               </div>
             </div>
@@ -144,9 +144,9 @@ export default function Home() {
                   Extensive Documentation
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  	•	ShopExpress prioritizes developer-friendliness by offering detailed documentation for each API endpoint.
-	•	The documentation includes example requests and responses, making it easy for developers to understand and use the API effectively.
-	•	With this resource, developers can quickly integrate ShopExpress into their e-commerce applications with confidence.
+                ShopExpress prioritizes developer-friendliness by offering detailed documentation for each API endpoint.
+	        The documentation includes example requests and responses, making it easy for developers to understand and use the API effectively.
+	        With this resource, developers can quickly integrate ShopExpress into their e-commerce applications with confidence.
                 </p>
               </div>
             </div>
@@ -171,9 +171,7 @@ export default function Home() {
             </svg>
           </h2>
           <p className="text-neutral-200 font-[450] text-xl lg:w-2/3 text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            itaque adipisci, sequi cum quasi assumenda doloremque tempora quod
-            quidem dolor.
+          ShopExpress offers a rich set of features designed to streamline the development of e-commerce applications. With a strong emphasis on security, user management, and seamless product handling, ShopExpress empowers developers to create exceptional shopping experiences for their users.
           </p>
         </div>
         <div className="w-full grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-8">

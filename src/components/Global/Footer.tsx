@@ -32,7 +32,7 @@ export default function Footer() {
               />
             </svg>
           </a>
-          <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">
+          <a href="https://github.com/Zinedinarnaut/ShopExpress" className="hover:text-neutral-100 duration-200 ease-in-out">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"

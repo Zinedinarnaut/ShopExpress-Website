@@ -20,7 +20,7 @@ export default function Footer() {
             </svg>
           </a>
         </div>
-      </div>
+      
         <div className="flex flex-col gap-2">
           <h3 className="text-neutral-50 font-normal">Product</h3>
           <ul className="list-none text-neutral-300/80 space-y-2">

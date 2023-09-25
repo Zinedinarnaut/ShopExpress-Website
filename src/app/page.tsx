@@ -93,9 +93,7 @@ export default function Home() {
             </svg>
           </h2>
           <p className="text-neutral-200 font-[450] text-xl w-full lg:w-2/3 text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            itaque adipisci, sequi cum quasi assumenda doloremque tempora quod
-            quidem dolor.
+            ShopExpress offers a rich set of features designed to streamline the development of e-commerce applications. With a strong emphasis on security, user management, and seamless product handling, ShopExpress empowers developers to create exceptional shopping experiences for their users.
           </p>
         </div>
         <div className="flex flex-col w-full gap-8">
@@ -118,7 +116,7 @@ export default function Home() {
                   Product Management
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                ShopExpress simplifies product management with full CRUD operations, enabling users to create, update, and maintain product details effortlessly. Retrieve products either as a complete list or by unique IDs.
+                ShopExpress simplifies product management with CRUD operations for effortless product creation, updates, and retrieval by ID or list.
                 </p>
               </div>
             </div>
@@ -130,7 +128,7 @@ export default function Home() {
                   Shopping Cart and Checkout
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                ShopExpress streamlines shopping with cart management, offering add, update, and remove operations. Accurate calculations simplify checkout, and users can pay seamlessly with Stripe support.
+                ShopExpress streamlines shopping with cart management, simplifying checkout, and enabling seamless payments via Stripe.
                 </p>
               </div>
             </div>

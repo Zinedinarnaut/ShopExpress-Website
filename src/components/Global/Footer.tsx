@@ -20,7 +20,25 @@ export default function Footer() {
             </svg>
           </a>
         </div>
-      
+      </div>
+      <div className="grid grid-cols-2 lg:grid-cols-4">
+        <div className="flex flex-col gap-2">
+          <h3 className="text-neutral-50 font-normal">App</h3>
+          <ul className="list-none text-neutral-300/80 space-y-2">
+            <li>
+              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Lorem</a>
+            </li>
+            <li>
+              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Ipsum</a>
+            </li>
+            <li>
+              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Dolor</a>
+            </li>
+            <li>
+              <a href="" className="hover:text-neutral-100 duration-200 ease-in-out">Sit</a>
+            </li>
+          </ul>
+        </div>
         <div className="flex flex-col gap-2">
           <h3 className="text-neutral-50 font-normal">Product</h3>
           <ul className="list-none text-neutral-300/80 space-y-2">

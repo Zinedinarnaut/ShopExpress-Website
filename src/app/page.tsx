@@ -197,9 +197,7 @@ export default function Home() {
             </svg>
           </h2>
           <p className="text-neutral-200 font-[450] text-xl lg:w-2/3 text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            itaque adipisci, sequi cum quasi assumenda doloremque tempora quod
-            quidem dolor.
+		  Have questions, suggestions, or feedback? We’re here to listen! Feel free to reach out to our dedicated support team through our contact form. We value your input and are committed to providing you with the best shopping experience possible. Get in touch today!
           </p>
         </div>
         <ContactForm />

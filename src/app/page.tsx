@@ -34,7 +34,7 @@ export default function Home() {
             className="bg-teal-900/30 border border-teal-600/40 text-neutral-50 px-3 py-2 rounded-full flex items-center self-start lg:self-center gap-4 justify-center cursor-pointer hover:border-teal-500/40 duration-300 ease-out"
             href="#"
           >
-            <p>Lorem ipsum dolor</p>
+            <p>Coming soon</p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="20"
@@ -51,15 +51,13 @@ export default function Home() {
             className="text-transparent lg:text-center bg-gradient-to-b from-neutral-50 from-10% via-teal-200 via-70% to-95% to-emerald-400 bg-clip-text leading-none"
             variants={FADE_DOWN_ANIMATION_VARIANTS}
           >
-            Lorem, ipsum dolor sit amet consectetur modi?
+            ShopExpress
           </motion.h1>
           <motion.p
             className="text-neutral-200 text-xl lg:text-center font-[450] w-full lg:w-3/4"
             variants={FADE_DOWN_ANIMATION_VARIANTS}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            itaque adipisci, sequi cum quasi assumenda doloremque tempora quod
-            quidem dolor.
+            ShopExpress is a modern and versatile API designed to power e-commerce applications. It provides a comprehensive set of endpoints for managing users, products, shopping carts, and payments. ShopExpress is built with security in mind, incorporating features like user authentication.
           </motion.p>
           <motion.div
             className="flex gap-4 mt-4 lg:mt-0 justify-start lg:justify-center lg:items-center w-full"

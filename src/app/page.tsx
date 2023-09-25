@@ -118,9 +118,7 @@ export default function Home() {
                   Product Management
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                ShopExpress offers comprehensive product management capabilities, including Create, Read, Update, and Delete (CRUD) operations.
-	        Users can create and update product details, making it easy to maintain an up-to-date catalog of available products.
-	        The API allows for the retrieval of a list of all available products or specific products by their unique IDs.
+                ShopExpress simplifies product management with full CRUD operations, enabling users to create, update, and maintain product details effortlessly. Retrieve products either as a complete list or by unique IDs.
                 </p>
               </div>
             </div>
@@ -132,9 +130,7 @@ export default function Home() {
                   Shopping Cart and Checkout
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                ShopExpress simplifies the shopping experience by providing endpoints to add, update, and remove products from a user’s shopping cart.
-	        Cart calculations ensure accurate subtotals and totals, making it straightforward to handle checkout processes.
-	        Users can seamlessly complete purchases through payment integration, with support for popular payment methods like Stripe.
+                ShopExpress streamlines shopping with cart management, offering add, update, and remove operations. Accurate calculations simplify checkout, and users can pay seamlessly with Stripe support.
                 </p>
               </div>
             </div>

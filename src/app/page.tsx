@@ -103,22 +103,24 @@ export default function Home() {
             <div className="h-full flex flex-col w-full lg:w-[60%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Lorem ipsum dolor sit amet.
+                  User Authentication and Security
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis, nisi?
+                  	•	ShopExpress provides robust user authentication features, allowing users to register, log in, and log out securely.
+	•	Routes are protected with JWT token authentication, ensuring that only authenticated users can access specific functionalities.
+	•	Passwords are hashed for enhanced security, protecting user credentials from unauthorized access.
                 </p>
               </div>
             </div>
             <div className="h-full flex flex-col w-full lg:w-[40%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Lorem ipsum dolor sit amet.
+                  Product Management
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis, nisi?
+                  •	ShopExpress offers comprehensive product management capabilities, including Create, Read, Update, and Delete (CRUD) operations.
+	•	Users can create and update product details, making it easy to maintain an up-to-date catalog of available products.
+	•	The API allows for the retrieval of a list of all available products or specific products by their unique IDs.
                 </p>
               </div>
             </div>
@@ -127,22 +129,24 @@ export default function Home() {
           <div className="h-full flex flex-col w-full lg:w-[40%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Lorem ipsum dolor sit amet.
+                  Shopping Cart and Checkout
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis, nisi?
+                  	•	ShopExpress simplifies the shopping experience by providing endpoints to add, update, and remove products from a user’s shopping cart.
+	•	Cart calculations ensure accurate subtotals and totals, making it straightforward to handle checkout processes.
+	•	Users can seamlessly complete purchases through payment integration, with support for popular payment methods like Stripe.
                 </p>
               </div>
             </div>
             <div className="h-full flex flex-col w-full lg:w-[60%] border border-teal-600/40 rounded-2xl backdrop-blur-2xl drop-shadow-2xl bg-teal-900/30 relative overflow-hidden p-4 lg:p-8">
               <div className="w-full flex flex-col justify-center items-center gap-2 self-end">
                 <h3 className="text-neutral-50 font-semibold text-[1.5rem] lg:text-[2rem] text-center leading-none">
-                  Lorem ipsum dolor sit amet.
+                  Extensive Documentation
                 </h3>
                 <p className="text-neutral-200 font-[450] text-lg text-center lg:w-2/3 leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis, nisi?
+                  	•	ShopExpress prioritizes developer-friendliness by offering detailed documentation for each API endpoint.
+	•	The documentation includes example requests and responses, making it easy for developers to understand and use the API effectively.
+	•	With this resource, developers can quickly integrate ShopExpress into their e-commerce applications with confidence.
                 </p>
               </div>
             </div>

@@ -86,7 +86,7 @@ export default function Header() {
             d="M224 114h-24a6 6 0 0 0 0 12h17.8a90.1 90.1 0 0 1-83.8 83.8V93.4a30 30 0 1 0-12 0v116.4A90.1 90.1 0 0 1 38.2 126H56a6 6 0 0 0 0-12H32a6 6 0 0 0-6 6a102 102 0 0 0 204 0a6 6 0 0 0-6-6ZM110 64a18 18 0 1 1 18 18a18.1 18.1 0 0 1-18-18Z"
           />
         </svg>
-        Logo
+        ShopExpress
       </h3>
       <nav className="lg:flex gap-8 justify-center items-center hidden">
         {navItems.map((item, index) => (
